@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-ThinItalic.woff2") format("woff2"),
+			url("../fonts/Larsseit-ThinItalic.woff") format("woff");
+	font-display: swap;
+	font-weight: 100;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit_regular.woff2") format("woff2"),
+	url("../fonts/Larsseit_regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: "lato";
+	src: url("../fonts/lato-bold.woff2") format("woff2"), url("../fonts/lato-bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+*{
+font-size: 25px;}
+
+h1,
+h2{
+	font-family: "Pacifico";
+	color: rgb(113, 206, 20);
+}
+
+.header p {
+	font-family: "lato";
+	font-weight: 700;
+	font-style: normal;
+	color: green;
+
+}
+.italic{
+	font-family: "Larsseit";
+	font-weight: 100;
+	font-style: italic;
+	color: blueviolet;
+}
+.make-up{
+	font-family: "Larsseit";
+	font-weight: 400;
+	font-style: normal;
+	color: rgb(255, 83, 255);
+}
+
+.trouble{
+	font-family: "lato";
+	font-weight: 700;
+	font-style: normal;
+	color: rgb(32, 95, 32);
+}
+
+.sadly{
+	font-family: "Larsseit";
+	font-weight: 400;
+	font-style: normal;
+	color: rgb(11, 28, 129);
+}
+.last-exit{
+	font-family: "lato";
+	font-weight: 700;
+	font-style: normal;
+	color: rgb(32, 95, 32);
+}
+.footer{
+	font-family: "Pacifico";
+	color: rgb(113, 206, 20);
+}
