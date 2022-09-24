@@ -10,6 +10,11 @@
 	font-style: normal;
 
 }
+
+body{
+	font-size: 35px;
+}
+
 h1{
 	font-family: "Caviar Dreams";
 	font-weight: 400;
