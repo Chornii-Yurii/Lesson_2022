@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500&display=swap');
+
+@font-face {
+	font-family: "Caviar Dreams";
+	src: url("../fonts/caviar-dreams.woff2") format("woff2"), url("../fonts/caviar-dreams.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+
+}
+h1{
+	font-family: "Caviar Dreams";
+	font-weight: 400;
+	font-style: normal;
+	text-transform: uppercase;
+}
+
+h2{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: oblique;
+}
+
+.main h2{
+	text-shadow: 15px 0px 3px rgb(9, 255, 29);
+	color: blue;
+	margin: 20px;
+	padding-left: 150px;
+
+}
+
+#up{
+font-size: 25px;
+text-transform: uppercase;
+}
+
+ol{
+	font-family: "Rubik Dirt";
+	font-weight: 400;
+	font-style: normal;
+	
+}
+.first .first{
+	line-height: 2;
+}
+.first .first-2{
+	line-height: 1;
+	color: aqua;
+}
+.second .second{
+	text-transform: capitalize;
+	color: chartreuse;
+text-shadow: 10px 10px 5px rgb(255, 210, 8);
+}
+
+.main p{
+	font-family: "Caveat";
+	font-weight: 500;
+	font-style: normal;
+} 
+
+.footer h2{
+	color: red;
+	text-shadow: 15px 1px 3px rgba(131, 16, 16, 0.548);
+}
+
+.footer p{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	text-transform: capitalize;
+}
+
+#up>p>a{
+	text-decoration: underline;
+}
