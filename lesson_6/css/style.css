@@ -1,0 +1,69 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+	font-family: Lato, sans-serif;
+	font-weight: 400;
+	max-width: 810px;
+	margin: 0 auto;
+}
+
+.head__container h1{
+	font-family: Lato;
+	font-weight: 900;
+	font-style: normal;
+	font-size: 46px;
+	line-height: 130%;
+	margin-bottom: 104px;
+}
+.image__container{
+	margin-bottom: 60px;
+}
+
+.bold__container p{
+	font-family: Lato;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	margin-bottom: 24px;
+}
+
+.normal__container {
+	line-height: 160%;
+	margin-bottom: 48px;
+}
+
+.normal__container-text{
+	margin-bottom: 40px;
+}
+
+.bold-2__container{
+	font-family: Lato;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 150%;
+	max-width: 752px;
+	margin: 0 0 48px auto;
+}
+.normal-2__container{
+	line-height: 160%;
+	margin-bottom: 24px;
+}
+
+.list__container ul{
+	line-height: 160%;
+	margin-bottom: 24px;
+}
+
+.footer__container{
+	line-height: 160%;
+	margin-bottom: 24px;
+}
+
+#up{
+	border: 5px solid green;
+	display: inline-block;
+	padding: 18px;
+	border-radius: 15px;
+	box-shadow: 10px 10px 10px 15px rgb(112, 98, 62);
+	margin: 15px;
+}
